@@ -7,6 +7,6 @@ function responder(consulta,respuesta){
 const servidor=http.createServer(responder);
 servidor.listen(9393);
 
-console.log('Escuchando en el puerto 9393');
+console.log('Escuchando en el puerto 3030');
 
 
